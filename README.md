@@ -12,3 +12,12 @@ Git is a popular distributed version control system used for tracking changes in
 Git allows multiple developers ot work on the same codebase simlutaneously and track their changes independently.
 
 It also supports branching and merging, which enables developers to experiment with different approaches to coding and then integrate their changes back into the main codebase.
+
+
+--- 
+
+## What are the benefits of using Git?
+
+1. Collaboration: Allows developers to work on the same code base simultaneously and track their changes
+2. Versioning: Git tracks changes to files over time, making it easy to see what changes have been made, who made them, and when. This helps the developers to understand the history of a project and to revert to earlier versions if needed.
+3. Branching and merging: Git supports branching, which allows developers to experiment with different approaches to coding without affecting the man codebase. Branches can be merged back into the main codebase when they are ready. 
