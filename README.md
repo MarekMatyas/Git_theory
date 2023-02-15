@@ -30,6 +30,16 @@ Git allows multiple developers ot work on the same codebase simlutaneously and t
 
 It also supports branching and merging, which enables developers to experiment with different approaches to coding and then integrate their changes back into the main codebase.
 
+### **Centralized**
+
+In the centralized system all team members connect to a central server to get the latest copy of the code and to share their changes with other. If the server goes down we will have to wait until it comes back up.
+
+### **Distributed**
+
+In distrubuted version we don't have this problem. Every team member has a copy of the project with its history on their machine. 
+We can save snapshots of your project locally on our machine.
+
+If the central server is offline we can sychronized our work directly with others.
 
 --- 
 
